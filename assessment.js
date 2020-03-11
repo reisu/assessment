@@ -1,6 +1,6 @@
 'use strict'
 const userNameInput = document.getElementById('user-name');
-const assesmentButton = document.getElementById('assesment');
+const assesmentButton = document.getElementById('assessment');
 const resultDevided = document.getElementById('result-area');
 const tweetDevided = document.getElementById('tweet-area');
 
